@@ -1,10 +1,16 @@
 --- 
-title: FAQ
-layout: page
+title: FAQs
+permalink: /FAQs/
 ---
 
-# FAQ
+## Whats it like being a resident?
 
-## Who's on first?
+You know residential.
 
-Who?
+## Whats you favorite part about drawing comics?
+
+Accidentally realizing its all on on the same layer.
+
+## Who is actually writing these answers?
+
+Definitely not my weird sysadmin fiance, certainly not.
