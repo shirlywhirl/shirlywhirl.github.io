@@ -28,7 +28,7 @@ twitter_username: ShirleneObuobi
 github_username: shirlywhirlmd
 
 # Build settings
-theme: millennial
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
