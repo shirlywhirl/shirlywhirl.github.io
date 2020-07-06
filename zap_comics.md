@@ -2,4 +2,5 @@
 title: AComics
 permalink: /acomics/
 ---
-Ooops this is will require 2FA. 
+
+{% include instagram.html freedUrl="https://zapier.com/engine/rss/7960262/shirlywhirlmd" %}
