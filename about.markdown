@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 ![Shirlene Headshot](/assets/headshot.jpg)
-@Shirlene. Pick a theme!
-[somepaid](https://jekyllthemes.io/github-pages-themes) 
-Were not paying for this but choose which one you like the best and I'll make it work.
-[toomanyoptions](https://jamstackthemes.dev/ssg/jekyll/)
-[githubsfree](https://pages.github.com/themes/)
+Shirlene Obuobi is a Ghanaian-American physician, cartoonist and writer. Her debut novel, “On Rotation,” is slated for publication in Summer 2022 (William Morrow, Harper Collins). 
 
+Shirlene's comics have been featured on the Lancet, Doximity.com, Axios, and more. Check out her medical comics (@shirlywhirlmd) [here](https://www.instagram.com/shirlywhirlmd/?hl=en) or on her [website](https://shirlywhirlmd.com/). 
